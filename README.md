@@ -1,64 +1,101 @@
-# 👋 Hi, I'm Sergio Moldes Álvarez
+# Design and Structural Calculation of a Device for Epilepsy Treatment Using Magnets
 
-**Industrial Technology Engineer | Mechanical Design Specialist**
+## Project Description
+
+The aim of this project is to develop a safe and efficient device for the treatment of epilepsy in a clinical setting, with appropriate dimensions for therapeutic use in pediatric patients. 
+
+First, different material alternatives are explored, taking into account pre-established requirements such as electromagnetic compatibility and mechanical resistance.
+
+Various models are created using SolidWorks and CatiaV5, combining both programs to achieve the best possible result for all components of this project.
+
+The final design comprises three main components, which are subjected to magnetic and static analysis under two possible situations during hypothetical clinical use.
+
+The end result is a design that meets all imposed requirements, with detailed construction plans provided and the entire process reflected in the budget.
+
+## Technologies Used
+
+- **3D Modeling**: SolidWorks, CatiaV5
+- **Simulation**: ANSYS (Fluent, SpaceClaim, Design Modeler, Mechanical), Hypermesh
+- **Technical Documentation**: AutoCAD
+
+## Repository Contents
+
+- `/cad_models`: Contains CAD files in .stl, .step, .iges formats.
+- `/fem_analysis`: Results and FEM analysis scripts performed in SolidWorks.
+- `/documentation`: Technical drawings and project documentation in PDF format.
+
+## Installation and Usage
+
+To view and modify the CAD models:
+
+1. Clone the repository: `git clone https://github.com/sergio-moldes/epilepsy-treatment-device.git`
+2. Open the files in SolidWorks or CatiaV5.
+
+## Contributions
+
+Contributions are welcome. Please open an issue or submit a pull request to discuss any changes you wish to make.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Project Documentation
+
+The project has been thoroughly documented in the following PDF file: [Epilepsy Treatment Device Documentation](documentation/Epilepsy_Treatment_Device.pdf)
+
+### Documentation Summary
+
+#### 1. Introduction
+
+Describes the project objective and provides an overview of the design of the epilepsy treatment device.
+
+#### 2. State of the Art
+
+Discusses existing solutions and technologies for epilepsy treatment and the need for a new device.
+
+#### 3. Objectives
+
+Defines the general and specific objectives for the development of the device.
+
+#### 4. Conceptual Design
+
+Presents the initial models and the evolution of the design process, including the various prototypes and their analyses.
+
+#### 5. Detailed Design
+
+Provides a comprehensive explanation of the final design, including materials, components, and assembly instructions.
+
+#### 6. Justifying Calculations
+
+Details the calculations and simulations performed to ensure the device's safety and efficiency.
+
+#### 7. Conclusions and Future Lines
+
+Summarizes the project outcomes and suggests future improvements and lines of research.
+
+#### 8. Bibliography
+
+Lists the references and sources used throughout the project.
+
+#### 9. Appendices
+
+Includes additional technical information and data sheets.
+
+### Project Images
+
+Here are some images of the final design:
+
+![Complete Device](images/complete_device.png)
+![Magnet Positioning](images/magnet_positioning.png)
+![Headgear Design](images/headgear_design.png)
+![Support Structure](images/support_structure.png)
 
 ---
 
-### 📫 Contact
+### Contact
+
+**Sergio Moldes Álvarez**
 
 - **Email**: [moldesalvarezs@gmail.com](mailto:moldesalvarezs@gmail.com)
 - **LinkedIn**: [sergio-moldes](https://www.linkedin.com/in/sergio-moldes/)
 - **Location**: Vigo, Spain
-
----
-
-### 🛠️ Skills
-
-- **CAD Software**: SolidWorks, AutoCAD, CatiaV5
-- **Simulation Tools**: ANSYS (Fluent, SpaceClaim, Design Modeler, Mechanical), Hypermesh
-- **Programming**: Python, MATLAB
-- **Project Management**: MS Project
-- **Others**: Microsoft Office, CNC Fagor, Ulimaker Cura, IdeaMaker, Dynaform
-
-### 🌟 Featured Projects
-
-1. [Device for Epilepsy Treatment](https://github.com/sergio-moldes/dispositivo-tratamiento-epilepsia)
-   - **Description**: Design and structural calculation of a device for epilepsy treatment using magnets.
-   - **Technologies Used**: SolidWorks, CatiaV5, Hypermesh, ANSYS Mechanical, AutoCAD.
-
-2. [Multi-Function Training Structure](https://github.com/sergio-moldes/entrenamiento-multifuncion)
-   - **Description**: Design and structural calculation of a multi-function training structure for home use.
-   - **Technologies Used**: SolidWorks, AutoCAD.
-
-3. [Kaplan Turbine Design](https://github.com/sergio-moldes/turbina-kaplan)
-   - **Description**: Design and analysis of a Kaplan turbine, including runner, distributor, draft tube, and spiral casing calculations.
-   - **Technologies Used**: SolidWorks, ANSYS Fluent.
-
-### 🎓 Academic Background
-
-- **Master's in Industrial Engineering, Mechanical Specialization** - University of Vigo, 2023
-- **Bachelor's in Industrial Technology Engineering** - University of Vigo, 2021
-- **Additional Courses**:
-  - Artificial Intelligence with Deep Learning (40 hours) - University of Vigo, 2023
-  - Advanced Stock Trading (25 hours) - University of Vigo, 2021
-  - Raspberry Pi Workshop with MATLAB and Simulink - University of Vigo, 2018
-
----
-
-### 💼 Professional Experience
-
-- **Associate Researcher** at CINTECX | Vigo | March 2023 - Present
-  - Collaboration with BorgWarner in CFD analysis of heat exchangers.
-  - Design and structural calculation of devices for epilepsy treatment.
-  - Design and CFD analysis of heat exchangers for batteries.
-
-- **Co-founder of SUREBETSBOT | September 2023 - Present**
-  - Design and development of an interactive website for software services.
-  - Strategic decision-making and performance evaluation.
-  - Customer service and marketing.
-
----
-
-### 🏆 Achievements and Recognitions
-
-- Contributions to research published in scientific journals.
