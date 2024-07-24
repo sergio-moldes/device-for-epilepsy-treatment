@@ -88,7 +88,6 @@ Here are some images of the final design:
 ![Complete Device](images/complete_device.png)
 ![Magnet Positioning](images/magnet_positioning.png)
 ![Headgear Design](images/headgear_design.png)
-![Support Structure](images/support_structure.png)
 
 ---
 
