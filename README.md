@@ -21,7 +21,7 @@ The end result is a design that meets all imposed requirements, with detailed co
 ## Repository Contents
 
 - `/cad_models`: Contains CAD files in .stl, .step, .iges formats.
-- `/fem_analysis`: Results and FEM analysis scripts performed in SolidWorks.
+- `/fem_analysis`: Results and FEM analysis scripts performed in Ansys Mechanical.
 - `/documentation`: Technical drawings and project documentation in PDF format.
 
 ## Installation and Usage
